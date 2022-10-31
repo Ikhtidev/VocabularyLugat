@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Vocabulary Lugat</string>
+    <string name="vocabulary_name">Русско - узбекско - английский словарь экономических терминов</string>
+
+    <string name="do_you_want_to_exit">Siz rostdan ham dasturdan chiqishni istaysizmi?</string>
+    <string name="answer_yes">Ha</string>
+    <string name="answer_no">Yo\'q</string>
+    <string name="some_text">Some text</string>
+    <string name="library">Дописать лит.\n1.Э.Сариков, Б. Хайдаров. Основы экономических знаний. Т.,2006г\n2.С.Г. Севликянц, О.Е. Отто,Б.Т. Тешаев.Экономика- основа жизни общества. Т.,1998г\n4.А. Д. Кирьян .Методические рекомендации по работе над аннотацией , рефератом, тезисами, конспектом как формами письменной речи для студентов- иностранцев нефилологических специальностей. М., Издательство УДН., 1985г\n5. М. Р. Саидова, М.И. Сайфуллаева. Тексты и задания по русскому языку для студентов 1 курса экономического факультета. Бухара, 2004г\n6. Н. Ф.Ахмедова. Словарь - минимум терминов экономической специальности для студентов национальных групп. Бухара, 2007 г\n9. Лариохина, Н. М. Практический курс русского языка для иностранных учащихся. Продвинутый этап : учебное пособие / Н. М. Лариохина. - М. : МГУ им. Ломоносова, 1997.-Ч. 1.-216 с.\n13.Филатова, Е. А. Русский язык для экономистов- 1 :учебное пособие для иностранных учащихся первого курса экономических вузов и факультетов России / Е. А.</string>
+    <string name="search">Поиск-Qidiruv-Search</string>
+    <string name="created_by">Created by</string>
+    <string name="warning">Ogohlantirish !!!</string>
+    <string name="search_ru">Поиск</string>
+    <string name="my_own">Ikhtiyor</string>
+</resources>
